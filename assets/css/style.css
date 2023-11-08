@@ -16758,7 +16758,7 @@ span.sr-only {
   padding: 0;
 }
 .sticky-home-wrapper .rn-skill-area .inner .skill-share-inner .skill-share {
-  justify-content: space-between;
+  /* justify-content: space-between; */
   margin-right: -25px;
   margin-bottom: -8px;
 }
